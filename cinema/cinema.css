@@ -1,0 +1,43 @@
+body{
+    font-family: Javanese Text;
+    font-family: Inter;
+    background-color: #ffffff;
+    
+}
+    .form-select{
+    width: 30%;
+    margin: 1%;
+    background-color: #bf3c3c;
+    margin-left: 35%;
+    
+}
+.form-control{
+    width: 30%;
+    margin: 1%;
+    margin-left:35% ;
+
+}
+thead{
+    background-color: #ffffff;
+    opacity: 0.75;
+    color: #B4880A;
+}
+tbody{
+    background-color: #f5f5f5;
+}
+.navbar-brand{
+    
+    padding-left: 11%;
+}
+@media screen and (max-width: 1000px){
+   
+    .navbar-brand{
+        padding-left: 5%;
+    }
+}
+@media screen and (max-width: 950px){
+   
+    .navbar-brand{
+        width: 65%;
+    }
+}

@@ -1,0 +1,285 @@
+[
+    {
+              "Poster" : "tres-metros1.jpg" ,
+              "titre" : "Tres metros sobre el cielo",
+              "réalisateur" : "Fernando González Molina",
+              "durée" : "118 minutes",
+              "année" : "2010",
+              "Festivals" : [
+                        "Festival International de Cinéma fantastique de Sitges"
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : "Casas",
+                                  "prenom" : " Mario",
+                                  "nationalité" : "(Espagnol)"
+                        },
+                        {
+                                  "nom" : "Valverde",
+                                  "prenom" : " Maria",
+                                  "nationalité" : "(Espagnol)"
+                        },
+                        {
+                                  "nom" : "Cervantes",
+                                  "prenom" : " Alvaro",
+                                  "nationalité" : " (Espagnol)"
+                        }
+              ]
+
+
+    },
+    {
+             "Poster" : "cruella.jpeg",
+              "titre" : "Cruella",
+              "réalisateur" : "Craig Gillespie",
+              "durée" : "134 minutes",
+              "année" : "2021",
+              "Festivals" : [
+                        " Gala de cloture du festival international du film"
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : " Stone",
+                                  "prenom" : " Emma ",
+                                  "nationalité" : " (Américaine)"
+                        },
+                        {
+                                  "nom" : "Thompson",
+                                  "prenom" : "Emma ",
+                                  "nationalité" : " (Américaine)"
+                        },
+                        {
+                                  "nom" : "Fry",
+                                  "prenom" : " Joel",
+                                  "nationalité" : " (Américan)"
+                        }
+              ]
+
+
+    },
+    {
+             "Poster" : "invisible.jpg",
+              "titre" : "The Invisible Guest",
+              "réalisateur" : "Oriol Paulo",
+              "durée" : "100 minutes",
+              "année" : "2016",
+              "Festivals" : [
+                        "Public Health Film Festival"
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : "Casas",
+                                  "prenom" : " Mario",
+                                  "nationalité" : " (Espagnol)"
+                        },
+                        {
+                                  "nom" : "Wagener",
+                                  "prenom" : " Anna",
+                                  "nationalité" : " (Espagnol)"
+                        },
+                        {
+                                  "nom" : "Lenni",
+                                  "prenom" : " Barbara ",
+                                  "nationalité" : " (Espagnol)"
+                        }
+              ]
+
+
+    },
+    {        
+               "Poster" : "Spider-Man.jpg",
+              "titre" : "Spider-Man",
+              "réalisateur" : "Sam Raimi",
+              "durée" : "121 minutes",
+              "année" : "2002",
+              "Festivals" : [
+                        " Annecy International Animation Film Festival"      
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : "Maguire",
+                                  "prenom" : " Tobey",
+                                  "nationalité" : " (Américaine)"
+                        },
+                        {
+                                  "nom" : "Dafoe",
+                                  "prenom" : " Willem",
+                                  "nationalité" : " (Américaine)"
+                        },
+                        {
+                                  "nom" : "Dunst",
+                                  "prenom" : " Kirsten",
+                                  "nationalité" : " (Allemande)"
+                        }
+              ]
+
+
+    },
+    {         
+              "Poster" : "lookup.jpg",
+              "titre" : "Don't Look Up",
+              "réalisateur" : " Adam McKay",
+              "durée" : "112 minutes",
+              "année" : "2021",
+              "Festivals" : [
+                        "Public Health Film Festival"    
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : "Lawrence",
+                                  "prenom" : " Jennifer ",
+                                  "nationalité" : " (Américane)"
+                        },
+                        {
+                                  "nom" : "DiCaprio ",
+                                  "prenom" : " Leonardo ",
+                                  "nationalité" : " (Américain)"
+                        },
+                        {
+                                  "nom" : "  Streep",
+                                  "prenom" : "  Meryl ",
+                                  "nationalité" : " (Américane)"
+                        }
+              ]
+
+
+    },
+    {
+             "Poster" : "athena.jpg",
+              "titre" : "Athena",
+              "réalisateur" : "Romain Gavras",
+              "durée" : "107 minutes",
+              "année" : " 2007",
+              
+              "Festivals" : [
+                        " Annecy International Animation Film Festival"
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : " Benssalah ",
+                                  "prenom" : " Dali  ",
+                                  "nationalité" : " (Français)"
+                        },
+                        {
+                                  "nom" : " Bajon ",
+                                  "prenom" : " Anthony  ",
+                                  "nationalité" : " (Français)"
+                        }
+                       
+              ]
+
+
+    },
+    {           
+             "Poster" : "pinocchio.jpg",
+              "titre" : "Pinocchio",
+              "réalisateur" : "Robert Zemeckis",
+              "durée" : "90 minutes",
+              "année" : "2022",
+              "Festivals" : [
+                        "Public Health Film Festival"    
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : "Hanks ",
+                                  "prenom" : " Tom  ",
+                                  "nationalité" : " (Britannique)"
+                        },
+                        {
+                                  "nom" : "Gordon-Levitt",
+                                  "prenom" : " Joseph ",
+                                  "nationalité" : " (Américain)"
+                        },
+                        {
+                                  "nom" : "Jupe",
+                                  "prenom" : " Noah",
+                                  "nationalité" : " (Britannique)"
+                        }
+              ]
+
+
+    },
+    {
+             "Poster" : "purple.webp",
+              "titre" : "Purple Hearts",
+              "réalisateur" : "Iain Kitching",
+              "durée" : "134 minutes",
+              "année" : " 2022",
+              
+              "Festivals" : [
+                        " Gala de cloture du festival international du film"
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : " Mardini",
+                                  "prenom" : " Yusra",
+                                  "nationalité" : " (syriens)"
+                        },
+                        {
+                                  "nom" : "Mardini",
+                                  "prenom" : " Sarah",
+                                  "nationalité" : " (syriens)"
+                        },
+                        {
+                                  "nom" : "Malek",
+                                  "prenom" : " Ahmed ",
+                                  "nationalité" : " (Egyptian)"
+                        }
+              ]
+
+
+    },
+    {
+            "Poster" : "fivefeet.jpg",
+              "titre" : "Five Feet Apart",
+              "réalisateur" : "Justin Baldoni",
+              "durée" : "117 minutes",
+              "année" : "2019",
+              "Festivals" : [
+                        "International Film Festival"        
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : "Haley  ",
+                                  "prenom" : " Lu Richardson",
+                                  "nationalité" : " (Américaine)"
+                        },
+                        {
+                                  "nom" : "Sprouse",
+                                  "prenom" : "Cole ",
+                                  "nationalité" : " (Américain)"
+                        },
+                        {
+                                  "nom" : " Arias",
+                                  "prenom" : " Moisés",
+                                  "nationalité" : " (Américain)"
+                        }
+              ]
+
+
+    },
+    {
+              "Poster" : "red notice.jpg",
+              "titre" : "Red Notice",
+              "réalisateur" : " Rawson Marshall Thurber",
+              "durée" : "115 minutes",
+              "année" : "2021",  
+              "Festivals" : [
+                        " Annecy International Animation Film Festival"     
+              ],
+              "Acteurs" : [
+                        {
+                                  "nom" : " Johnson",
+                                  "prenom" : " Dwayne ",
+                                  "nationalité" : " (Américain)"
+                        },
+                        {
+                                  "nom" : " Reynolds ",
+                                  "prenom" : " Ryan ",
+                                  "nationalité" : " (Américain)"
+                        }
+              ]
+
+
+    }
+]
